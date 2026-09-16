@@ -1,6 +1,6 @@
 {
   "showInTray": true,
-  "minimizeToTrayOnClose": false,
+  "minimizeToTrayOnClose": true,
   "useAppWindowControls": false,
   "enableClaudePluginIntegration": true,
   "skipClaudeOnboarding": false,

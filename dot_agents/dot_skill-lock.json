@@ -86,6 +86,15 @@
       "skillFolderHash": "e9c89e3282820eed3a5d24451b8054dd0038edf1",
       "installedAt": "2026-09-11T08:01:07.389Z",
       "updatedAt": "2026-09-11T08:01:07.389Z"
+    },
+    "hypit": {
+      "source": "hypit-ai/hypit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/hypit-ai/hypit.git",
+      "skillPath": "skills/hypit/SKILL.md",
+      "skillFolderHash": "eed68c3107846f5f8533207e597a683f2f8733f7",
+      "installedAt": "2026-09-16T01:54:12.934Z",
+      "updatedAt": "2026-09-16T01:54:12.934Z"
     }
   },
   "dismissed": {
