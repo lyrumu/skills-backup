@@ -70,6 +70,16 @@
         "lastUpdated": "2026-09-08T15:02:53.534Z",
         "gitCommitSha": "2c606141936f1eeef17fa3043a72095b4765b9c2"
       }
+    ],
+    "mattpocock-skills@mattpocock": [
+      {
+        "scope": "user",
+        "installPath": "/Users/lyrumu/.claude/plugins/cache/mattpocock/mattpocock-skills/1.2.3",
+        "version": "1.2.3",
+        "installedAt": "2026-09-19T07:30:55.300Z",
+        "lastUpdated": "2026-09-19T07:30:55.300Z",
+        "gitCommitSha": "c55ee46073ed923f86ce59a5eb3b6d895095d1b7"
+      }
     ]
   }
 }

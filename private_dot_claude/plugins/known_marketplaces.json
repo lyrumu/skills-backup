@@ -5,7 +5,7 @@
       "repo": "anthropics/claude-plugins-official"
     },
     "installLocation": "/Users/lyrumu/.claude/plugins/marketplaces/claude-plugins-official",
-    "lastUpdated": "2026-09-19T06:05:50.652Z"
+    "lastUpdated": "2026-09-19T07:04:27.264Z"
   },
   "ponytail": {
     "source": {
@@ -13,7 +13,8 @@
       "url": "https://github.com/DietrichGebert/ponytail.git"
     },
     "installLocation": "/Users/lyrumu/.claude/plugins/marketplaces/ponytail",
-    "lastUpdated": "2026-09-19T03:22:49.645Z"
+    "lastUpdated": "2026-09-19T03:22:49.645Z",
+    "autoUpdate": true
   },
   "karpathy-skills": {
     "source": {
@@ -21,7 +22,8 @@
       "repo": "forrestchang/andrej-karpathy-skills"
     },
     "installLocation": "/Users/lyrumu/.claude/plugins/marketplaces/karpathy-skills",
-    "lastUpdated": "2026-09-19T04:22:17.991Z"
+    "lastUpdated": "2026-09-19T07:30:19.365Z",
+    "autoUpdate": true
   },
   "mattpocock": {
     "source": {
@@ -29,6 +31,7 @@
       "url": "https://github.com/mattpocock/skills.git"
     },
     "installLocation": "/Users/lyrumu/.claude/plugins/marketplaces/mattpocock",
-    "lastUpdated": "2026-09-19T06:24:36.575Z"
+    "lastUpdated": "2026-09-19T06:24:36.575Z",
+    "autoUpdate": true
   }
 }
