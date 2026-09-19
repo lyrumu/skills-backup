@@ -4,21 +4,21 @@
     "frontend-design@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/lyrumu/.claude/plugins/cache/claude-plugins-official/frontend-design/76c85b7366c8",
-        "version": "76c85b7366c8",
+        "installPath": "/Users/lyrumu/.claude/plugins/cache/claude-plugins-official/frontend-design/c447c3207a42",
+        "version": "c447c3207a42",
         "installedAt": "2026-08-03T08:31:10.173Z",
-        "lastUpdated": "2026-09-16T02:27:55.210Z",
-        "gitCommitSha": "022b3c274938ddfb9fd928fc582eb9b9ed0f537f"
+        "lastUpdated": "2026-09-19T03:12:36.112Z",
+        "gitCommitSha": "c447c3207a425bc4e2a0d068435f64b0477ae981"
       }
     ],
     "context7@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/lyrumu/.claude/plugins/cache/claude-plugins-official/context7/76c85b7366c8",
-        "version": "76c85b7366c8",
+        "installPath": "/Users/lyrumu/.claude/plugins/cache/claude-plugins-official/context7/c447c3207a42",
+        "version": "c447c3207a42",
         "installedAt": "2026-08-03T08:32:01.232Z",
-        "lastUpdated": "2026-09-16T02:27:55.211Z",
-        "gitCommitSha": "022b3c274938ddfb9fd928fc582eb9b9ed0f537f"
+        "lastUpdated": "2026-09-19T03:12:36.112Z",
+        "gitCommitSha": "c447c3207a425bc4e2a0d068435f64b0477ae981"
       }
     ],
     "superpowers@claude-plugins-official": [
@@ -34,11 +34,11 @@
     "playwright@claude-plugins-official": [
       {
         "scope": "user",
-        "installPath": "/Users/lyrumu/.claude/plugins/cache/claude-plugins-official/playwright/76c85b7366c8",
-        "version": "76c85b7366c8",
+        "installPath": "/Users/lyrumu/.claude/plugins/cache/claude-plugins-official/playwright/c447c3207a42",
+        "version": "c447c3207a42",
         "installedAt": "2026-08-03T08:32:39.432Z",
-        "lastUpdated": "2026-09-16T02:27:55.211Z",
-        "gitCommitSha": "022b3c274938ddfb9fd928fc582eb9b9ed0f537f"
+        "lastUpdated": "2026-09-19T03:12:36.111Z",
+        "gitCommitSha": "c447c3207a425bc4e2a0d068435f64b0477ae981"
       }
     ],
     "code-simplifier@claude-plugins-official": [

@@ -1,3 +1,8 @@
+# macOS Finder 垃圾文件，永不纳管
+.DS_Store
+**/.DS_Store
+._*
+
 # 忽略 .codex/skills/.system 目录
 .codex/skills/.system/
 
