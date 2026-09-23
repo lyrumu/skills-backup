@@ -1,4 +1,4 @@
 interface:
-  display_name: "Ivory Etched Record"
-  short_description: "Generate tactile ivory instrument-relief record visuals"
-  default_prompt: "Use $generate-ivory-etched-record to create a restrained music visual with an ivory carved-disc focal object."
+  display_name: "Ivory Relief Project Visual"
+  short_description: "Apply warm ivory relief material to project-grounded visuals"
+  default_prompt: "Use $generate-ivory-etched-record to create a project-grounded visual, borrowing only the warm ivory carved material and lighting from its reference."

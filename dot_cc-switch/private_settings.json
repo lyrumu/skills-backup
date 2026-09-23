@@ -25,7 +25,8 @@
     "opencode": true,
     "openclaw": false,
     "hermes": false,
-    "pi": true
+    "pi": true,
+    "mcode": false
   },
   "currentProviderClaude": "dd066b00-40c8-4ae7-a5ab-e43486252780",
   "skillSyncMethod": "auto",
