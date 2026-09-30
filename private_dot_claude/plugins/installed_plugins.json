@@ -31,16 +31,6 @@
         "gitCommitSha": "2a8ad9f74633d10e3d9bb0660a03bfc6e50584b1"
       }
     ],
-    "code-simplifier@claude-plugins-official": [
-      {
-        "scope": "user",
-        "installPath": "/Users/lyrumu/.claude/plugins/cache/claude-plugins-official/code-simplifier/1.0.0",
-        "version": "1.0.0",
-        "installedAt": "2026-08-03T08:33:41.347Z",
-        "lastUpdated": "2026-08-03T08:33:41.347Z",
-        "gitCommitSha": "909649d9b178d142201000c76715b5fc952818e3"
-      }
-    ],
     "ponytail@ponytail": [
       {
         "scope": "user",
@@ -49,16 +39,6 @@
         "installedAt": "2026-08-07T06:49:49.935Z",
         "lastUpdated": "2026-09-23T01:16:58.619Z",
         "gitCommitSha": "e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156"
-      }
-    ],
-    "andrej-karpathy-skills@karpathy-skills": [
-      {
-        "scope": "user",
-        "installPath": "/Users/lyrumu/.claude/plugins/cache/karpathy-skills/andrej-karpathy-skills/1.0.0",
-        "version": "1.0.0",
-        "installedAt": "2026-09-08T15:02:53.534Z",
-        "lastUpdated": "2026-09-08T15:02:53.534Z",
-        "gitCommitSha": "2c606141936f1eeef17fa3043a72095b4765b9c2"
       }
     ],
     "mattpocock-skills@mattpocock": [
