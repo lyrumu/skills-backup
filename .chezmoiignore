@@ -8,3 +8,7 @@
 
 # Obsidian 本地窗口状态，不纳管
 project/Notes/.obsidian/workspace.json
+
+# skills 本体不纳管：恢复时按 .skill-lock.json / installed_plugins.json 重装
+.cc-switch/skills
+.agents/skills
