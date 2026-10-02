@@ -27,10 +27,8 @@ source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 export PATH="$PATH:/Users/lyrumu/.lmstudio/bin"
 # End of LM Studio CLI section
 
-# Hermes Agent — ensure ~/.local/bin is on PATH
 export PATH="$HOME/.local/bin:$PATH"
 typeset -U path
-# End of Hermes Agent section
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="$HOME/.sdkman"
