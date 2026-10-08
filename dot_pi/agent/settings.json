@@ -1,0 +1,18 @@
+{
+  "lastChangelogVersion": "1.0.4",
+  "deviceId": "3ba4f8e3-32e0-41b5-99c4-1189d0c1c879",
+  "packages": [
+    "npm:pi-web-access",
+    "npm:pi-subagents"
+  ],
+  "showHardwareCursor": true,
+  "steeringMode": "one-at-a-time",
+  "collapseChangelog": true,
+  "defaultProjectTrust": "always",
+  "modelThinkingLevels": {
+    "deepseek/deepseek-flash": "high",
+    "zai/glm-5.3-flash": "high",
+    "xiaomi/mimo-v2.6-flash": "high"
+  },
+  "tuiMode": "fullscreen"
+}

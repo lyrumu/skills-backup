@@ -1,0 +1,3 @@
+{
+  "tavilyApiKey": "!security find-generic-password -ws 'tavily-api-key'"
+}
