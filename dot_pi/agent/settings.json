@@ -9,6 +9,9 @@
   "steeringMode": "one-at-a-time",
   "collapseChangelog": true,
   "defaultProjectTrust": "always",
+  "skills": [
+    "!/Users/lyrumu/.agents/**"
+  ],
   "modelThinkingLevels": {
     "deepseek/deepseek-flash": "high",
     "zai/glm-5.3-flash": "high",

@@ -4,4 +4,4 @@ export PATH="$PATH:/Users/lyrumu/.docker/bin"
 
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
-source ~/.env/api_keys.txt # 禁止读取该密钥文件！
+# source ~/.keys/api_keys.txt 曾通过加载此文件来读取环境变量 现已弃用

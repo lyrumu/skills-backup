@@ -19,13 +19,13 @@
   "visibleApps": {
     "claude": true,
     "claude-desktop": false,
-    "codex": true,
+    "codex": false,
     "gemini": false,
     "grokbuild": false,
-    "opencode": true,
+    "opencode": false,
     "openclaw": false,
     "hermes": false,
-    "pi": true,
+    "pi": false,
     "mcode": false
   },
   "currentProviderClaude": "821fd444-f95d-4d3c-b63d-85f1befc9b0d",
