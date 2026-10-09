@@ -2,8 +2,7 @@
   "lastChangelogVersion": "1.1.0",
   "deviceId": "3ba4f8e3-32e0-41b5-99c4-1189d0c1c879",
   "packages": [
-    "npm:pi-web-access",
-    "npm:pi-subagents"
+    "npm:pi-web-access"
   ],
   "showHardwareCursor": true,
   "steeringMode": "one-at-a-time",
@@ -19,9 +18,9 @@
     "!/Users/lyrumu/.agents/**"
   ],
   "modelThinkingLevels": {
-    "deepseek/deepseek-flash": "high",
-    "zai/glm-5.3-flash": "high",
-    "xiaomi/mimo-v2.6-flash": "high"
+    "deepseek/deepseek-flash": "low",
+    "zai/glm-5.3-flash": "low",
+    "xiaomi/mimo-v2.6-flash": "low"
   },
   "tuiMode": "fullscreen",
   "defaultProvider": "deepseek",
