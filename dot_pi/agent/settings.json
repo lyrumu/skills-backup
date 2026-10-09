@@ -24,5 +24,11 @@
   },
   "tuiMode": "fullscreen",
   "defaultProvider": "deepseek",
-  "defaultModel": "deepseek-flash"
+  "defaultModel": "deepseek-flash",
+  "enabledModels": [
+    "deepseek/deepseek-flash",
+    "zai/glm-5.3-flash",
+    "zai/glm-5.3",
+    "xiaomi/mimo-v2.6-flash"
+  ]
 }

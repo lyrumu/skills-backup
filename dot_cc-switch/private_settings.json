@@ -29,7 +29,7 @@
     "opencode": false,
     "openclaw": false,
     "hermes": false,
-    "pi": false,
+    "pi": true,
     "mcode": false
   },
   "currentProviderClaude": "821fd444-f95d-4d3c-b63d-85f1befc9b0d",
